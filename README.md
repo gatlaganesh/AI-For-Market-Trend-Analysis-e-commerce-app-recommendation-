@@ -1,13 +1,15 @@
 AI for Market Trend Analysis Project
 A beginner-friendly machine learning project that suggest best price for category and predict future price using technical indicators and advanced ML algorithms.
 
-📄 Project Report: [view report](https://docs.google.com/document/d/1J5qOlTplwfJrlKVOBIASxvODWLks_6uw/edit?usp=sharing&ouid=105482734489430303000&rtpof=true&sd=true)
+📄 Project Report: [View report](https://docs.google.com/document/d/1J5qOlTplwfJrlKVOBIASxvODWLks_6uw/edit?usp=sharing&ouid=105482734489430303000&rtpof=true&sd=true)
 
-Presentation : [ppt](https://docs.google.com/presentation/d/1yXGabNoTmZCdtH1quwA3i-DAsku2O4lMFNixhlGIwTE/edit?usp=sharing)
+Presentation : [Ppt](https://docs.google.com/presentation/d/1yXGabNoTmZCdtH1quwA3i-DAsku2O4lMFNixhlGIwTE/edit?usp=sharing)
 
-demo video: [video](https://drive.google.com/file/d/1kWPIQ2syYgq6enKfVFLMvhWJ3QxO15xV/view?usp=sharing)
+demo video: [Video](https://drive.google.com/file/d/1kWPIQ2syYgq6enKfVFLMvhWJ3QxO15xV/view?usp=sharing)
 
 📊 Live Dashboard:[Launch Dashboard](http://192.168.31.62:8501/)
+
+
 
 📋 Table of Contents
 Overview – Project introduction and objectives
