@@ -7,6 +7,8 @@ A beginner-friendly machine learning project that suggest best price for categor
 
 Presentation : [ppt]https://docs.google.com/presentation/d/1yXGabNoTmZCdtH1quwA3i-DAsku2O4lMFNixhlGIwTE/edit?usp=sharing
 
+demo video: [video]https://drive.google.com/file/d/1kWPIQ2syYgq6enKfVFLMvhWJ3QxO15xV/view?usp=sharing
+
 📋 Table of Contents
 Overview – Project introduction and objectives
 
