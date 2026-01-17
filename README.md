@@ -5,7 +5,6 @@ A beginner-friendly machine learning project that suggest best price for categor
 📊 Live Dashboard:[Launch Dashboard]http://192.168.31.62:8501/
 
 Presentation : [ppt]https://docs.google.com/presentation/d/1yXGabNoTmZCdtH1quwA3i-DAsku2O4lMFNixhlGIwTE/edit?usp=sharing
-
 📋 Table of Contents
 Overview – Project introduction and objectives
 
